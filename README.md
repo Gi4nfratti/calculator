@@ -3,10 +3,12 @@
 Inspired on Iphone's default calculator.
 
 
-![IMG-20230913-WA0037](https://github.com/Gi4nfratti/calculator/assets/32543785/9ecb6ff6-2502-4297-a8e3-04150976b75d)
+<img src="https://github.com/Gi4nfratti/calculator/assets/32543785/9ecb6ff6-2502-4297-a8e3-04150976b75d" width="300" height="500">
 
 
 # DEMO
-https://github.com/Gi4nfratti/calculator/assets/32543785/2ec216d9-e1d7-4b91-b6e2-20873a642b0c
+<img src="https://github.com/Gi4nfratti/calculator/assets/32543785/b3b3ea8a-fb0b-41b3-aa72-513120193efa" width="300" height="500"/>
+
+
 
 
