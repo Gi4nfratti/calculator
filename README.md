@@ -3,7 +3,7 @@
 Inspired on Iphone's default calculator.
 
 
-<img src="https://github.com/Gi4nfratti/calculator/assets/32543785/9ecb6ff6-2502-4297-a8e3-04150976b75d" width="300" height="500">
+<img src="https://github.com/Gi4nfratti/calculator/assets/32543785/9ecb6ff6-2502-4297-a8e3-04150976b75d" width="411" height="800">
 
 
 # DEMO
