@@ -1,16 +1,12 @@
 # calculator
 
-A new Flutter project.
+Inspired on Iphone's default calculator.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![IMG-20230913-WA0037](https://github.com/Gi4nfratti/calculator/assets/32543785/9ecb6ff6-2502-4297-a8e3-04150976b75d)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# DEMO
+https://github.com/Gi4nfratti/calculator/assets/32543785/2ec216d9-e1d7-4b91-b6e2-20873a642b0c
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
